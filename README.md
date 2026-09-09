@@ -12,7 +12,7 @@
 
 I study Software Engineering at Sofia University "St. Kliment Ohridski" and even in my free time I enjoy learning new things and working on interesting technology related projects, including projects involving AI.
 
-🔭 &nbsp;I'm currently working on **building an LLM**
+🔭 &nbsp;I'm currently working on **Predictive Modeling for Agriculture**
 
 ### 🛠️ Tech Stack
 
