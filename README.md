@@ -12,7 +12,8 @@
 
 I study Software Engineering at Sofia University "St. Kliment Ohridski" and even in my free time I enjoy learning new things and working on interesting technology related projects, including projects involving AI.
 
-🔭 &nbsp;I'm currently working on **Predictive Modeling for Agriculture**
+🔭 &nbsp;I'm currently working on **building an LLM**  
+🌱 &nbsp;I'm currently learning **GoogleTest and unit testing**
 
 ### 🛠️ Tech Stack
 
@@ -26,8 +27,8 @@ I study Software Engineering at Sofia University "St. Kliment Ohridski" and even
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/niya-neykova-41379a373/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/neykovan_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/niya-neykova-41379a373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/neykovan_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
